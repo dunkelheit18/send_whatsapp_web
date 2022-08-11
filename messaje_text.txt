@@ -1,0 +1,6 @@
+!Bienvenido!
+
+Esto es una prueba de envio de mensajes desde Python
+mediante el uso de Whatsapp Web.
+
+Gracias por tu atención!
